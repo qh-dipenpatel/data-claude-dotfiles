@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__claude_ai_Atlassian__getAccessibleAtlassianResources",
+      "mcp__claude_ai_Atlassian__searchJiraIssuesUsingJql",
+      "mcp__claude_ai_Atlassian__getJiraIssue",
+      "mcp__claude_ai_Gmail__gmail_get_profile",
+      "mcp__claude_ai_Gmail__gmail_search_messages",
+      "Bash(git config:*)",
+      "Bash(git status:*)",
+      "Bash(git log:*)",
+      "Bash(git diff:*)",
+      "Bash(date)",
+      "Bash(find $QH_KNOWLEDGE/**)",
+      "Bash(find $QH_SCRIPTS/**)",
+      "Read($QH_KNOWLEDGE/**)",
+      "Read($QH_SCRIPTS/**)",
+      "Read($CLAUDE_DOTFILES/**)"
+    ],
+    "additionalDirectories": []
+  }
+}

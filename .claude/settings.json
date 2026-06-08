@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git push *)",
+      "Bash(python3 -c ' *)",
+      "Bash(mv /tmp/readme_new.md /Users/dipenpatel/Documents/data-claude-dotfiles/README.md)"
+    ]
+  }
+}

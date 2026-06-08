@@ -1,0 +1,20 @@
+{
+  "mcpServers": {
+    "slack": {
+      "env": {
+        "SLACK_BOT_TOKEN": "xoxb-your-token-here",
+        "SLACK_TEAM_ID": "T0000000000"
+      }
+    },
+    "atlassian": {
+      "env": {
+        "CONFLUENCE_URL": "https://your-org.atlassian.net/wiki",
+        "CONFLUENCE_USERNAME": "your.email@company.com",
+        "CONFLUENCE_API_TOKEN": "your-atlassian-api-token",
+        "JIRA_URL": "https://your-org.atlassian.net",
+        "JIRA_USERNAME": "your.email@company.com",
+        "JIRA_API_TOKEN": "your-atlassian-api-token"
+      }
+    }
+  }
+}
